@@ -58,8 +58,8 @@ npm install
 
 ### 3. Access Application
 - Frontend: http://localhost:5173
-- Backend API: http://localhost:8000
-- API Docs: http://localhost:8000/docs
+- Backend API: http://localhost:9000
+- API Docs: http://localhost:9000/docs
 
 ## 🎯 Features
 
